@@ -1,0 +1,93 @@
+
+header{
+    display: flex;
+    text-align: center;
+    min-height: 50vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.about{
+    margin-top: 0px;
+    background-color: #ffffff;
+}
+
+.about .content{
+    display: flex;
+}
+
+.about h1{
+    text-align: center;
+}
+
+.about img{
+    max-width: 600px;
+    margin-left: 30px;
+}
+
+.about p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.about button{
+    margin-left: 20px;
+    color:aliceblue;
+    background-color: black;
+    padding: 15px;
+}
+
+.services{
+    background-color: rgb(255, 255, 255);
+}
+
+.services h1{
+    text-align: center;
+}
+
+.card{
+    padding: 30px 40px;
+    color: aliceblue;
+    background-color: rgb(110, 110, 110);
+    margin:0px 50px;
+    border: solid rgb(0, 0, 0);
+}
+
+.Container{
+    display: flex;
+}
+
+.languages{
+    background-color: rgb(255, 255, 255);
+}
+
+.languages h1{
+    text-align: center;
+}
+
+.cards_2 img{
+    max-width: 100px;
+    margin: 30px;
+}
+
+.container_2{
+    display: flex;
+}
+
+.contact h1{
+    text-align: center;
+}
+.contact{
+    background-color: rgb(255, 255, 255);
+}
+
+.formm{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.btn btn-primary{
+    margin-bottom: 20px;
+}
